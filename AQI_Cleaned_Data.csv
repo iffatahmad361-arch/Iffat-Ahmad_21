@@ -1,0 +1,286 @@
+Rank (highest first),City,State/UT (as reported),Reading date,US AQI,Source category,Change vs previous day,Source
+1,Faridabad,Haryana,18-Nov-2026,239,Very Unhealthy,+21,Good Air daily report; CPCB/state monitoring networks
+2,Gummidipoondi,Maharashtra,18-Nov-2026,196,Unhealthy,+8,Good Air daily report; CPCB/state monitoring networks
+3,Panchgaon,Maharashtra,18-Nov-2026,191,Unhealthy,-31,Good Air daily report; CPCB/state monitoring networks
+4,Banswara,Maharashtra,18-Nov-2026,186,Unhealthy,+69,Good Air daily report; CPCB/state monitoring networks
+5,Nuapada,Maharashtra,18-Nov-2026,185,Unhealthy,+13,Good Air daily report; CPCB/state monitoring networks
+6,Delhi,Delhi,18-Nov-2026,184,Unhealthy,+24,Good Air daily report; CPCB/state monitoring networks
+7,Gurugram,Haryana,18-Nov-2026,183,Unhealthy,-14,Good Air daily report; CPCB/state monitoring networks
+8,Bhiwani,Haryana,18-Nov-2026,181,Unhealthy,+21,Good Air daily report; CPCB/state monitoring networks
+8,Kakudia,Maharashtra,18-Nov-2026,181,Unhealthy,+15,Good Air daily report; CPCB/state monitoring networks
+10,Sirsa,Haryana,18-Nov-2026,180,Unhealthy,+24,Good Air daily report; CPCB/state monitoring networks
+11,Visakhapatnam,Andhra Pradesh,18-Nov-2026,179,Unhealthy,+26,Good Air daily report; CPCB/state monitoring networks
+12,Charkhi Dadri,Maharashtra,18-Nov-2026,177,Unhealthy,+30,Good Air daily report; CPCB/state monitoring networks
+13,Rohtak,Haryana,18-Nov-2026,175,Unhealthy,+21,Good Air daily report; CPCB/state monitoring networks
+14,Noida,Uttar Pradesh,18-Nov-2026,173,Unhealthy,+20,Good Air daily report; CPCB/state monitoring networks
+15,Vadodara,Gujarat,18-Nov-2026,172,Unhealthy,new,Good Air daily report; CPCB/state monitoring networks
+16,Bettiah,Maharashtra,18-Nov-2026,170,Unhealthy,+2,Good Air daily report; CPCB/state monitoring networks
+16,Bundi,Maharashtra,18-Nov-2026,170,Unhealthy,+7,Good Air daily report; CPCB/state monitoring networks
+16,Hajipur,Maharashtra,18-Nov-2026,170,Unhealthy,+44,Good Air daily report; CPCB/state monitoring networks
+16,Mahad,Maharashtra,18-Nov-2026,170,Unhealthy,+12,Good Air daily report; CPCB/state monitoring networks
+20,Bahadurgarh,Maharashtra,18-Nov-2026,169,Unhealthy,-12,Good Air daily report; CPCB/state monitoring networks
+21,Hisar,Haryana,18-Nov-2026,168,Unhealthy,+42,Good Air daily report; CPCB/state monitoring networks
+21,Khora,Maharashtra,18-Nov-2026,168,Unhealthy,+8,Good Air daily report; CPCB/state monitoring networks
+23,Ballabgarh,Maharashtra,18-Nov-2026,167,Unhealthy,-31,Good Air daily report; CPCB/state monitoring networks
+24,Khanna,Maharashtra,18-Nov-2026,166,Unhealthy,-50,Good Air daily report; CPCB/state monitoring networks
+24,Nagpur,Maharashtra,18-Nov-2026,166,Unhealthy,+1,Good Air daily report; CPCB/state monitoring networks
+26,Chandrapur,Maharashtra,18-Nov-2026,164,Unhealthy,-4,Good Air daily report; CPCB/state monitoring networks
+26,Khairthal,Maharashtra,18-Nov-2026,164,Unhealthy,+58,Good Air daily report; CPCB/state monitoring networks
+28,Baran,Maharashtra,18-Nov-2026,163,Unhealthy,+81,Good Air daily report; CPCB/state monitoring networks
+28,Jatni,Maharashtra,18-Nov-2026,163,Unhealthy,+8,Good Air daily report; CPCB/state monitoring networks
+28,Patna,Bihar,18-Nov-2026,163,Unhealthy,+45,Good Air daily report; CPCB/state monitoring networks
+28,Tonk,Rajasthan,18-Nov-2026,163,Unhealthy,+9,Good Air daily report; CPCB/state monitoring networks
+32,Amritsar,Punjab,18-Nov-2026,161,Unhealthy,-10,Good Air daily report; CPCB/state monitoring networks
+32,Dhule,Maharashtra,18-Nov-2026,161,Unhealthy,+13,Good Air daily report; CPCB/state monitoring networks
+34,Alwar,Rajasthan,18-Nov-2026,160,Unhealthy,+29,Good Air daily report; CPCB/state monitoring networks
+34,Modinagar,Maharashtra,18-Nov-2026,160,Unhealthy,-1,Good Air daily report; CPCB/state monitoring networks
+36,Ludhiana,Punjab,18-Nov-2026,159,Unhealthy,+5,Good Air daily report; CPCB/state monitoring networks
+37,Muzaffarpur,Bihar,18-Nov-2026,158,Unhealthy,+10,Good Air daily report; CPCB/state monitoring networks
+37,Pune,Maharashtra,18-Nov-2026,158,Unhealthy,+26,Good Air daily report; CPCB/state monitoring networks
+37,Suakati,Maharashtra,18-Nov-2026,158,Unhealthy,-20,Good Air daily report; CPCB/state monitoring networks
+40,Ahmednagar,Maharashtra,18-Nov-2026,157,Unhealthy,+2,Good Air daily report; CPCB/state monitoring networks
+40,Chennai,Tamil Nadu,18-Nov-2026,157,Unhealthy,-7,Good Air daily report; CPCB/state monitoring networks
+40,Ghaziabad,Uttar Pradesh,18-Nov-2026,157,Unhealthy,+56,Good Air daily report; CPCB/state monitoring networks
+40,Greater Noida,Uttar Pradesh,18-Nov-2026,157,Unhealthy,+5,Good Air daily report; CPCB/state monitoring networks
+40,Guwahati,Assam,18-Nov-2026,157,Unhealthy,+30,Good Air daily report; CPCB/state monitoring networks
+40,Jabalpur,Madhya Pradesh,18-Nov-2026,157,Unhealthy,+1,Good Air daily report; CPCB/state monitoring networks
+40,Korapalli,Maharashtra,18-Nov-2026,157,Unhealthy,+5,Good Air daily report; CPCB/state monitoring networks
+40,Malegaon,Maharashtra,18-Nov-2026,157,Unhealthy,+3,Good Air daily report; CPCB/state monitoring networks
+40,Pimpri-Chinchwad,Maharashtra,18-Nov-2026,157,Unhealthy,+12,Good Air daily report; CPCB/state monitoring networks
+40,Yamuna Nagar,Maharashtra,18-Nov-2026,157,Unhealthy,0,Good Air daily report; CPCB/state monitoring networks
+50,Ankleshwar,Maharashtra,18-Nov-2026,156,Unhealthy,-16,Good Air daily report; CPCB/state monitoring networks
+50,Chhapra,Maharashtra,18-Nov-2026,156,Unhealthy,+4,Good Air daily report; CPCB/state monitoring networks
+50,Mira-Bhayandar,Maharashtra,18-Nov-2026,156,Unhealthy,+2,Good Air daily report; CPCB/state monitoring networks
+50,Nashik,Maharashtra,18-Nov-2026,156,Unhealthy,+20,Good Air daily report; CPCB/state monitoring networks
+50,Udaipur,Rajasthan,18-Nov-2026,156,Unhealthy,+26,Good Air daily report; CPCB/state monitoring networks
+55,Bhavnagar,Gujarat,18-Nov-2026,155,Unhealthy,+47,Good Air daily report; CPCB/state monitoring networks
+55,Cuttack,Odisha,18-Nov-2026,155,Unhealthy,+17,Good Air daily report; CPCB/state monitoring networks
+55,Dharuhera,Maharashtra,18-Nov-2026,155,Unhealthy,+1,Good Air daily report; CPCB/state monitoring networks
+55,Pithampur,Maharashtra,18-Nov-2026,155,Unhealthy,+1,Good Air daily report; CPCB/state monitoring networks
+55,Rajgir,Bihar,18-Nov-2026,155,Unhealthy,+73,Good Air daily report; CPCB/state monitoring networks
+60,Jalna,Maharashtra,18-Nov-2026,154,Unhealthy,+2,Good Air daily report; CPCB/state monitoring networks
+60,Kota,Rajasthan,18-Nov-2026,154,Unhealthy,+48,Good Air daily report; CPCB/state monitoring networks
+60,Nanded,Maharashtra,18-Nov-2026,154,Unhealthy,-7,Good Air daily report; CPCB/state monitoring networks
+63,Baripada,Maharashtra,18-Nov-2026,153,Unhealthy,-25,Good Air daily report; CPCB/state monitoring networks
+63,Nagaon,Assam,18-Nov-2026,153,Unhealthy,+43,Good Air daily report; CPCB/state monitoring networks
+63,Raebareli,Uttar Pradesh,18-Nov-2026,153,Unhealthy,-13,Good Air daily report; CPCB/state monitoring networks
+63,Vijayawada,Andhra Pradesh,18-Nov-2026,153,Unhealthy,+51,Good Air daily report; CPCB/state monitoring networks
+63,Vrindavan,Uttar Pradesh,18-Nov-2026,153,Unhealthy,new,Good Air daily report; CPCB/state monitoring networks
+68,Bhiwadi,Maharashtra,18-Nov-2026,152,Unhealthy,-34,Good Air daily report; CPCB/state monitoring networks
+68,Bhubaneswar,Odisha,18-Nov-2026,152,Unhealthy,+28,Good Air daily report; CPCB/state monitoring networks
+68,Thane,Maharashtra,18-Nov-2026,152,Unhealthy,-5,Good Air daily report; CPCB/state monitoring networks
+71,Ajmer,Rajasthan,18-Nov-2026,151,Unhealthy,+18,Good Air daily report; CPCB/state monitoring networks
+71,Bhilwara,Rajasthan,18-Nov-2026,151,Unhealthy,+59,Good Air daily report; CPCB/state monitoring networks
+73,Ambala,Haryana,18-Nov-2026,149,Unhealthy for Sensitive Groups,+12,Good Air daily report; CPCB/state monitoring networks
+73,Kaithal,Maharashtra,18-Nov-2026,149,Unhealthy for Sensitive Groups,+29,Good Air daily report; CPCB/state monitoring networks
+73,Mumbai,Maharashtra,18-Nov-2026,149,Unhealthy for Sensitive Groups,-7,Good Air daily report; CPCB/state monitoring networks
+73,Yadgir,Maharashtra,18-Nov-2026,149,Unhealthy for Sensitive Groups,+59,Good Air daily report; CPCB/state monitoring networks
+77,Gwalior,Madhya Pradesh,18-Nov-2026,148,Unhealthy for Sensitive Groups,-1,Good Air daily report; CPCB/state monitoring networks
+77,Talcher,Maharashtra,18-Nov-2026,148,Unhealthy for Sensitive Groups,+76,Good Air daily report; CPCB/state monitoring networks
+79,Byrnihat,Maharashtra,18-Nov-2026,147,Unhealthy for Sensitive Groups,+37,Good Air daily report; CPCB/state monitoring networks
+80,Pali,Maharashtra,18-Nov-2026,146,Unhealthy for Sensitive Groups,+58,Good Air daily report; CPCB/state monitoring networks
+81,Angul,Maharashtra,18-Nov-2026,142,Unhealthy for Sensitive Groups,+23,Good Air daily report; CPCB/state monitoring networks
+82,Belgaum,Karnataka,18-Nov-2026,141,Unhealthy for Sensitive Groups,-9,Good Air daily report; CPCB/state monitoring networks
+82,Jind,Maharashtra,18-Nov-2026,141,Unhealthy for Sensitive Groups,+25,Good Air daily report; CPCB/state monitoring networks
+82,Karnal,Haryana,18-Nov-2026,141,Unhealthy for Sensitive Groups,-12,Good Air daily report; CPCB/state monitoring networks
+82,Mandikhera,Maharashtra,18-Nov-2026,141,Unhealthy for Sensitive Groups,-25,Good Air daily report; CPCB/state monitoring networks
+86,Chittorgarh,Rajasthan,18-Nov-2026,139,Unhealthy for Sensitive Groups,+10,Good Air daily report; CPCB/state monitoring networks
+86,Latur,Maharashtra,18-Nov-2026,139,Unhealthy for Sensitive Groups,+5,Good Air daily report; CPCB/state monitoring networks
+86,Paradeep,Maharashtra,18-Nov-2026,139,Unhealthy for Sensitive Groups,-22,Good Air daily report; CPCB/state monitoring networks
+86,Parbhani,Maharashtra,18-Nov-2026,139,Unhealthy for Sensitive Groups,+23,Good Air daily report; CPCB/state monitoring networks
+90,Ahmedabad,Gujarat,18-Nov-2026,138,Unhealthy for Sensitive Groups,+20,Good Air daily report; CPCB/state monitoring networks
+90,Kotputli,Maharashtra,18-Nov-2026,138,Unhealthy for Sensitive Groups,new,Good Air daily report; CPCB/state monitoring networks
+92,Baraut,Maharashtra,18-Nov-2026,137,Unhealthy for Sensitive Groups,+30,Good Air daily report; CPCB/state monitoring networks
+92,Kurukshetra,Haryana,18-Nov-2026,137,Unhealthy for Sensitive Groups,+16,Good Air daily report; CPCB/state monitoring networks
+92,Motihari,Maharashtra,18-Nov-2026,137,Unhealthy for Sensitive Groups,+25,Good Air daily report; CPCB/state monitoring networks
+95,Pampore,Maharashtra,18-Nov-2026,136,Unhealthy for Sensitive Groups,+41,Good Air daily report; CPCB/state monitoring networks
+96,Gaya,Bihar,18-Nov-2026,135,Unhealthy for Sensitive Groups,+26,Good Air daily report; CPCB/state monitoring networks
+96,Keonjhar,Maharashtra,18-Nov-2026,135,Unhealthy for Sensitive Groups,-25,Good Air daily report; CPCB/state monitoring networks
+98,Badlapur,Maharashtra,18-Nov-2026,134,Unhealthy for Sensitive Groups,-11,Good Air daily report; CPCB/state monitoring networks
+98,Gajraula,Maharashtra,18-Nov-2026,134,Unhealthy for Sensitive Groups,+99,Good Air daily report; CPCB/state monitoring networks
+98,Tensa,Maharashtra,18-Nov-2026,134,Unhealthy for Sensitive Groups,-11,Good Air daily report; CPCB/state monitoring networks
+101,Jalgaon,Maharashtra,18-Nov-2026,133,Unhealthy for Sensitive Groups,new,Good Air daily report; CPCB/state monitoring networks
+102,Bihar Sharif,Maharashtra,18-Nov-2026,132,Unhealthy for Sensitive Groups,+55,Good Air daily report; CPCB/state monitoring networks
+102,Buxar,Maharashtra,18-Nov-2026,132,Unhealthy for Sensitive Groups,-2,Good Air daily report; CPCB/state monitoring networks
+102,Jhalawar,Maharashtra,18-Nov-2026,132,Unhealthy for Sensitive Groups,+48,Good Air daily report; CPCB/state monitoring networks
+102,Nayagarh,Maharashtra,18-Nov-2026,132,Unhealthy for Sensitive Groups,-23,Good Air daily report; CPCB/state monitoring networks
+102,Sagar,Madhya Pradesh,18-Nov-2026,132,Unhealthy for Sensitive Groups,+17,Good Air daily report; CPCB/state monitoring networks
+107,Haldia,West Bengal,18-Nov-2026,131,Unhealthy for Sensitive Groups,-45,Good Air daily report; CPCB/state monitoring networks
+107,Ratlam,Madhya Pradesh,18-Nov-2026,131,Unhealthy for Sensitive Groups,-7,Good Air daily report; CPCB/state monitoring networks
+109,Jamui,Maharashtra,18-Nov-2026,129,Unhealthy for Sensitive Groups,+43,Good Air daily report; CPCB/state monitoring networks
+109,Nagaur,Maharashtra,18-Nov-2026,129,Unhealthy for Sensitive Groups,+24,Good Air daily report; CPCB/state monitoring networks
+111,Fatehabad,Maharashtra,18-Nov-2026,128,Unhealthy for Sensitive Groups,new,Good Air daily report; CPCB/state monitoring networks
+111,Sangli,Maharashtra,18-Nov-2026,128,Unhealthy for Sensitive Groups,+2,Good Air daily report; CPCB/state monitoring networks
+113,Arrah,Maharashtra,18-Nov-2026,127,Unhealthy for Sensitive Groups,+22,Good Air daily report; CPCB/state monitoring networks
+113,Jalandhar,Punjab,18-Nov-2026,127,Unhealthy for Sensitive Groups,-10,Good Air daily report; CPCB/state monitoring networks
+115,Aurangabad,Maharashtra,18-Nov-2026,125,Unhealthy for Sensitive Groups,+2,Good Air daily report; CPCB/state monitoring networks
+116,Gandhinagar,Gujarat,18-Nov-2026,124,Unhealthy for Sensitive Groups,+14,Good Air daily report; CPCB/state monitoring networks
+116,Kakinada,Andhra Pradesh,18-Nov-2026,124,Unhealthy for Sensitive Groups,+18,Good Air daily report; CPCB/state monitoring networks
+116,Kurnool,Andhra Pradesh,18-Nov-2026,124,Unhealthy for Sensitive Groups,-1,Good Air daily report; CPCB/state monitoring networks
+116,Sawai Madhopur,Maharashtra,18-Nov-2026,124,Unhealthy for Sensitive Groups,+32,Good Air daily report; CPCB/state monitoring networks
+120,Howrah,West Bengal,18-Nov-2026,123,Unhealthy for Sensitive Groups,-42,Good Air daily report; CPCB/state monitoring networks
+121,Tirupati,Andhra Pradesh,18-Nov-2026,120,Unhealthy for Sensitive Groups,+35,Good Air daily report; CPCB/state monitoring networks
+122,Damoh,Madhya Pradesh,18-Nov-2026,119,Unhealthy for Sensitive Groups,-5,Good Air daily report; CPCB/state monitoring networks
+123,Jaipur,Rajasthan,18-Nov-2026,118,Unhealthy for Sensitive Groups,-18,Good Air daily report; CPCB/state monitoring networks
+123,Solapur,Maharashtra,18-Nov-2026,118,Unhealthy for Sensitive Groups,+2,Good Air daily report; CPCB/state monitoring networks
+125,Byasanagar,Maharashtra,18-Nov-2026,117,Unhealthy for Sensitive Groups,-30,Good Air daily report; CPCB/state monitoring networks
+125,Surat,Gujarat,18-Nov-2026,117,Unhealthy for Sensitive Groups,-42,Good Air daily report; CPCB/state monitoring networks
+127,Guntur,Andhra Pradesh,18-Nov-2026,116,Unhealthy for Sensitive Groups,+14,Good Air daily report; CPCB/state monitoring networks
+127,Khurja,Maharashtra,18-Nov-2026,116,Unhealthy for Sensitive Groups,-27,Good Air daily report; CPCB/state monitoring networks
+129,Hyderabad,Telangana,18-Nov-2026,115,Unhealthy for Sensitive Groups,+22,Good Air daily report; CPCB/state monitoring networks
+129,Madikeri,Maharashtra,18-Nov-2026,115,Unhealthy for Sensitive Groups,+21,Good Air daily report; CPCB/state monitoring networks
+131,Bikaner,Rajasthan,18-Nov-2026,114,Unhealthy for Sensitive Groups,+22,Good Air daily report; CPCB/state monitoring networks
+131,Bilaspur,Chhattisgarh,18-Nov-2026,114,Unhealthy for Sensitive Groups,+8,Good Air daily report; CPCB/state monitoring networks
+131,Kolkata,West Bengal,18-Nov-2026,114,Unhealthy for Sensitive Groups,-46,Good Air daily report; CPCB/state monitoring networks
+131,Rishikesh,Uttarakhand,18-Nov-2026,114,Unhealthy for Sensitive Groups,+21,Good Air daily report; CPCB/state monitoring networks
+135,Amravati,Maharashtra,18-Nov-2026,112,Unhealthy for Sensitive Groups,0,Good Air daily report; CPCB/state monitoring networks
+135,Gopalganj,Maharashtra,18-Nov-2026,112,Unhealthy for Sensitive Groups,+37,Good Air daily report; CPCB/state monitoring networks
+135,Kadapa,Andhra Pradesh,18-Nov-2026,112,Unhealthy for Sensitive Groups,+19,Good Air daily report; CPCB/state monitoring networks
+135,Ujjain,Madhya Pradesh,18-Nov-2026,112,Unhealthy for Sensitive Groups,-20,Good Air daily report; CPCB/state monitoring networks
+139,Kashipur,Maharashtra,18-Nov-2026,111,Unhealthy for Sensitive Groups,new,Good Air daily report; CPCB/state monitoring networks
+139,Machilipatnam,Maharashtra,18-Nov-2026,111,Unhealthy for Sensitive Groups,0,Good Air daily report; CPCB/state monitoring networks
+139,Mysuru,Karnataka,18-Nov-2026,111,Unhealthy for Sensitive Groups,0,Good Air daily report; CPCB/state monitoring networks
+139,Panchkula,Haryana,18-Nov-2026,111,Unhealthy for Sensitive Groups,+47,Good Air daily report; CPCB/state monitoring networks
+139,Ulhasnagar,Maharashtra,18-Nov-2026,111,Unhealthy for Sensitive Groups,-6,Good Air daily report; CPCB/state monitoring networks
+144,Boisar,Maharashtra,18-Nov-2026,109,Unhealthy for Sensitive Groups,+3,Good Air daily report; CPCB/state monitoring networks
+144,Eluru,Maharashtra,18-Nov-2026,109,Unhealthy for Sensitive Groups,-8,Good Air daily report; CPCB/state monitoring networks
+144,Firozabad,Uttar Pradesh,18-Nov-2026,109,Unhealthy for Sensitive Groups,-19,Good Air daily report; CPCB/state monitoring networks
+147,Virar,Maharashtra,18-Nov-2026,108,Unhealthy for Sensitive Groups,-38,Good Air daily report; CPCB/state monitoring networks
+148,Coimbatore,Tamil Nadu,18-Nov-2026,107,Unhealthy for Sensitive Groups,+27,Good Air daily report; CPCB/state monitoring networks
+148,Dewas,Madhya Pradesh,18-Nov-2026,107,Unhealthy for Sensitive Groups,0,Good Air daily report; CPCB/state monitoring networks
+150,Udupi,Karnataka,18-Nov-2026,106,Unhealthy for Sensitive Groups,+10,Good Air daily report; CPCB/state monitoring networks
+151,Asansol,West Bengal,18-Nov-2026,105,Unhealthy for Sensitive Groups,-8,Good Air daily report; CPCB/state monitoring networks
+151,Bulandshahr,Maharashtra,18-Nov-2026,105,Unhealthy for Sensitive Groups,-5,Good Air daily report; CPCB/state monitoring networks
+151,Darbhanga,Maharashtra,18-Nov-2026,105,Unhealthy for Sensitive Groups,-10,Good Air daily report; CPCB/state monitoring networks
+151,Jorapokhar,Maharashtra,18-Nov-2026,105,Unhealthy for Sensitive Groups,-2,Good Air daily report; CPCB/state monitoring networks
+151,Siliguri,West Bengal,18-Nov-2026,105,Unhealthy for Sensitive Groups,-3,Good Air daily report; CPCB/state monitoring networks
+151,Varanasi,Uttar Pradesh,18-Nov-2026,105,Unhealthy for Sensitive Groups,-30,Good Air daily report; CPCB/state monitoring networks
+157,Anantapur,Andhra Pradesh,18-Nov-2026,103,Unhealthy for Sensitive Groups,+1,Good Air daily report; CPCB/state monitoring networks
+158,Chikkaballapur,Maharashtra,18-Nov-2026,102,Unhealthy for Sensitive Groups,-27,Good Air daily report; CPCB/state monitoring networks
+158,Hanumangarh,Maharashtra,18-Nov-2026,102,Unhealthy for Sensitive Groups,-119,Good Air daily report; CPCB/state monitoring networks
+158,Mehsana,Maharashtra,18-Nov-2026,102,Unhealthy for Sensitive Groups,+24,Good Air daily report; CPCB/state monitoring networks
+158,Nandesari,Maharashtra,18-Nov-2026,102,Unhealthy for Sensitive Groups,new,Good Air daily report; CPCB/state monitoring networks
+162,Mangalore,Karnataka,18-Nov-2026,101,Unhealthy for Sensitive Groups,+9,Good Air daily report; CPCB/state monitoring networks
+163,Bhiwandi,Maharashtra,18-Nov-2026,100,Moderate,-4,Good Air daily report; CPCB/state monitoring networks
+163,Bhopal,Madhya Pradesh,18-Nov-2026,100,Moderate,-34,Good Air daily report; CPCB/state monitoring networks
+163,Gangtok,Sikkim,18-Nov-2026,100,Moderate,-40,Good Air daily report; CPCB/state monitoring networks
+166,Balasore,Odisha,18-Nov-2026,99,Moderate,-55,Good Air daily report; CPCB/state monitoring networks
+166,Deeg,Maharashtra,18-Nov-2026,99,Moderate,+12,Good Air daily report; CPCB/state monitoring networks
+166,Patiala,Punjab,18-Nov-2026,99,Moderate,+39,Good Air daily report; CPCB/state monitoring networks
+166,Rourkela,Odisha,18-Nov-2026,99,Moderate,+9,Good Air daily report; CPCB/state monitoring networks
+166,Sikar,Maharashtra,18-Nov-2026,99,Moderate,+5,Good Air daily report; CPCB/state monitoring networks
+171,Durgapur,West Bengal,18-Nov-2026,98,Moderate,+2,Good Air daily report; CPCB/state monitoring networks
+171,Kannur,Maharashtra,18-Nov-2026,98,Moderate,new,Good Air daily report; CPCB/state monitoring networks
+171,Ongole,Andhra Pradesh,18-Nov-2026,98,Moderate,-3,Good Air daily report; CPCB/state monitoring networks
+174,Bengaluru,Karnataka,18-Nov-2026,97,Moderate,-17,Good Air daily report; CPCB/state monitoring networks
+174,Kalyan,Maharashtra,18-Nov-2026,97,Moderate,-30,Good Air daily report; CPCB/state monitoring networks
+174,Kiul,Maharashtra,18-Nov-2026,97,Moderate,+33,Good Air daily report; CPCB/state monitoring networks
+174,Koppal,Maharashtra,18-Nov-2026,97,Moderate,-2,Good Air daily report; CPCB/state monitoring networks
+174,Siwan,Maharashtra,18-Nov-2026,97,Moderate,-55,Good Air daily report; CPCB/state monitoring networks
+174,Sonipat,Haryana,18-Nov-2026,97,Moderate,-35,Good Air daily report; CPCB/state monitoring networks
+174,Tirumala,Maharashtra,18-Nov-2026,97,Moderate,-54,Good Air daily report; CPCB/state monitoring networks
+181,Beed,Maharashtra,18-Nov-2026,96,Moderate,+14,Good Air daily report; CPCB/state monitoring networks
+181,Dombivli,Maharashtra,18-Nov-2026,96,Moderate,0,Good Air daily report; CPCB/state monitoring networks
+181,Kuniyamuthur,Maharashtra,18-Nov-2026,96,Moderate,+14,Good Air daily report; CPCB/state monitoring networks
+181,Mathura,Uttar Pradesh,18-Nov-2026,96,Moderate,+1,Good Air daily report; CPCB/state monitoring networks
+181,Pratapgarh,Maharashtra,18-Nov-2026,96,Moderate,+4,Good Air daily report; CPCB/state monitoring networks
+181,Ramanagara,Maharashtra,18-Nov-2026,96,Moderate,-26,Good Air daily report; CPCB/state monitoring networks
+187,Gorakhpur,Uttar Pradesh,18-Nov-2026,95,Moderate,+10,Good Air daily report; CPCB/state monitoring networks
+187,Vatva,Maharashtra,18-Nov-2026,95,Moderate,-50,Good Air daily report; CPCB/state monitoring networks
+189,Bharatpur,Rajasthan,18-Nov-2026,94,Moderate,+13,Good Air daily report; CPCB/state monitoring networks
+189,Jalore,Maharashtra,18-Nov-2026,94,Moderate,+2,Good Air daily report; CPCB/state monitoring networks
+189,Madhubani,Maharashtra,18-Nov-2026,94,Moderate,-38,Good Air daily report; CPCB/state monitoring networks
+189,Mandideep,Maharashtra,18-Nov-2026,94,Moderate,-11,Good Air daily report; CPCB/state monitoring networks
+189,Puducherry,Puducherry,18-Nov-2026,94,Moderate,-59,Good Air daily report; CPCB/state monitoring networks
+194,Navi Mumbai,Maharashtra,18-Nov-2026,93,Moderate,+3,Good Air daily report; CPCB/state monitoring networks
+194,Srikakulam,Maharashtra,18-Nov-2026,93,Moderate,-6,Good Air daily report; CPCB/state monitoring networks
+196,Gadag,Maharashtra,18-Nov-2026,92,Moderate,+3,Good Air daily report; CPCB/state monitoring networks
+196,Silchar,Assam,18-Nov-2026,92,Moderate,-3,Good Air daily report; CPCB/state monitoring networks
+198,Kolhapur,Maharashtra,18-Nov-2026,91,Moderate,-12,Good Air daily report; CPCB/state monitoring networks
+198,Palwal,Maharashtra,18-Nov-2026,91,Moderate,-36,Good Air daily report; CPCB/state monitoring networks
+200,Agra,Uttar Pradesh,18-Nov-2026,90,Moderate,+11,Good Air daily report; CPCB/state monitoring networks
+200,Baghpat,Maharashtra,18-Nov-2026,90,Moderate,-59,Good Air daily report; CPCB/state monitoring networks
+200,Churu,Maharashtra,18-Nov-2026,90,Moderate,+19,Good Air daily report; CPCB/state monitoring networks
+200,Davanagere,Karnataka,18-Nov-2026,90,Moderate,-77,Good Air daily report; CPCB/state monitoring networks
+200,Kanpur,Uttar Pradesh,18-Nov-2026,90,Moderate,-28,Good Air daily report; CPCB/state monitoring networks
+200,Karwar,Maharashtra,18-Nov-2026,90,Moderate,-35,Good Air daily report; CPCB/state monitoring networks
+200,Rajkot,Gujarat,18-Nov-2026,90,Moderate,-25,Good Air daily report; CPCB/state monitoring networks
+207,Amaravati,Andhra Pradesh,18-Nov-2026,88,Moderate,+13,Good Air daily report; CPCB/state monitoring networks
+207,Bhagalpur,Maharashtra,18-Nov-2026,88,Moderate,-19,Good Air daily report; CPCB/state monitoring networks
+207,Chamarajanagar,Maharashtra,18-Nov-2026,88,Moderate,+20,Good Air daily report; CPCB/state monitoring networks
+207,Munger,Maharashtra,18-Nov-2026,88,Moderate,-8,Good Air daily report; CPCB/state monitoring networks
+207,Satna,Madhya Pradesh,18-Nov-2026,88,Moderate,-1,Good Air daily report; CPCB/state monitoring networks
+207,Shivamogga,Karnataka,18-Nov-2026,88,Moderate,+10,Good Air daily report; CPCB/state monitoring networks
+207,Tumidih,Maharashtra,18-Nov-2026,88,Moderate,new,Good Air daily report; CPCB/state monitoring networks
+214,Indore,Madhya Pradesh,18-Nov-2026,87,Moderate,-8,Good Air daily report; CPCB/state monitoring networks
+215,Barbil,Maharashtra,18-Nov-2026,86,Moderate,-46,Good Air daily report; CPCB/state monitoring networks
+215,Belapur,Maharashtra,18-Nov-2026,86,Moderate,new,Good Air daily report; CPCB/state monitoring networks
+215,Dausa,Maharashtra,18-Nov-2026,86,Moderate,-26,Good Air daily report; CPCB/state monitoring networks
+215,Jhunjhunu,Maharashtra,18-Nov-2026,86,Moderate,+5,Good Air daily report; CPCB/state monitoring networks
+215,Meerut,Uttar Pradesh,18-Nov-2026,86,Moderate,+3,Good Air daily report; CPCB/state monitoring networks
+215,Nellore,Andhra Pradesh,18-Nov-2026,86,Moderate,+4,Good Air daily report; CPCB/state monitoring networks
+221,Jaisalmer,Rajasthan,18-Nov-2026,85,Moderate,+16,Good Air daily report; CPCB/state monitoring networks
+221,Raipur,Chhattisgarh,18-Nov-2026,85,Moderate,-13,Good Air daily report; CPCB/state monitoring networks
+221,Vasai,Maharashtra,18-Nov-2026,85,Moderate,+4,Good Air daily report; CPCB/state monitoring networks
+224,Baddi,Maharashtra,18-Nov-2026,84,Moderate,new,Good Air daily report; CPCB/state monitoring networks
+224,Dholpur,Maharashtra,18-Nov-2026,84,Moderate,0,Good Air daily report; CPCB/state monitoring networks
+224,Rairangpur,Maharashtra,18-Nov-2026,84,Moderate,-69,Good Air daily report; CPCB/state monitoring networks
+224,Sitamarhi,Maharashtra,18-Nov-2026,84,Moderate,-6,Good Air daily report; CPCB/state monitoring networks
+228,Chittoor,Maharashtra,18-Nov-2026,83,Moderate,-12,Good Air daily report; CPCB/state monitoring networks
+228,Hubballi,Karnataka,18-Nov-2026,83,Moderate,+3,Good Air daily report; CPCB/state monitoring networks
+228,Jodhpur,Rajasthan,18-Nov-2026,83,Moderate,-6,Good Air daily report; CPCB/state monitoring networks
+228,Lucknow,Uttar Pradesh,18-Nov-2026,83,Moderate,-9,Good Air daily report; CPCB/state monitoring networks
+228,Milupara,Maharashtra,18-Nov-2026,83,Moderate,new,Good Air daily report; CPCB/state monitoring networks
+233,Agartala,Tripura,18-Nov-2026,82,Moderate,-81,Good Air daily report; CPCB/state monitoring networks
+233,Katihar,Maharashtra,18-Nov-2026,82,Moderate,-70,Good Air daily report; CPCB/state monitoring networks
+233,Kohima,Nagaland,18-Nov-2026,82,Moderate,-24,Good Air daily report; CPCB/state monitoring networks
+233,Prayagraj,Uttar Pradesh,18-Nov-2026,82,Moderate,-14,Good Air daily report; CPCB/state monitoring networks
+233,Rajsamand,Maharashtra,18-Nov-2026,82,Moderate,+13,Good Air daily report; CPCB/state monitoring networks
+233,Vapi,Maharashtra,18-Nov-2026,82,Moderate,new,Good Air daily report; CPCB/state monitoring networks
+239,Ambernath,Maharashtra,18-Nov-2026,81,Moderate,0,Good Air daily report; CPCB/state monitoring networks
+239,Sivasagar,Maharashtra,18-Nov-2026,81,Moderate,+29,Good Air daily report; CPCB/state monitoring networks
+241,Chandigarh,Chandigarh,18-Nov-2026,80,Moderate,+16,Good Air daily report; CPCB/state monitoring networks
+241,Chhal,Maharashtra,18-Nov-2026,80,Moderate,-6,Good Air daily report; CPCB/state monitoring networks
+241,Muzaffarnagar,Uttar Pradesh,18-Nov-2026,80,Moderate,-32,Good Air daily report; CPCB/state monitoring networks
+244,Hingoli,Maharashtra,18-Nov-2026,79,Moderate,-11,Good Air daily report; CPCB/state monitoring networks
+244,Kolar,Maharashtra,18-Nov-2026,79,Moderate,-9,Good Air daily report; CPCB/state monitoring networks
+246,Narnaul,Maharashtra,18-Nov-2026,78,Moderate,-43,Good Air daily report; CPCB/state monitoring networks
+247,Maihar,Maharashtra,18-Nov-2026,76,Moderate,0,Good Air daily report; CPCB/state monitoring networks
+248,Barmer,Maharashtra,18-Nov-2026,75,Moderate,+24,Good Air daily report; CPCB/state monitoring networks
+248,Begusarai,Bihar,18-Nov-2026,75,Moderate,+7,Good Air daily report; CPCB/state monitoring networks
+248,Dungarpur,Maharashtra,18-Nov-2026,75,Moderate,new,Good Air daily report; CPCB/state monitoring networks
+248,Katni,Maharashtra,18-Nov-2026,75,Moderate,+19,Good Air daily report; CPCB/state monitoring networks
+252,Chikkamagaluru,Maharashtra,18-Nov-2026,74,Moderate,-3,Good Air daily report; CPCB/state monitoring networks
+252,Kalaburagi,Karnataka,18-Nov-2026,74,Moderate,-15,Good Air daily report; CPCB/state monitoring networks
+252,Tumakuru,Karnataka,18-Nov-2026,74,Moderate,-12,Good Air daily report; CPCB/state monitoring networks
+255,Akola,Maharashtra,18-Nov-2026,73,Moderate,-15,Good Air daily report; CPCB/state monitoring networks
+255,Araria,Maharashtra,18-Nov-2026,73,Moderate,-93,Good Air daily report; CPCB/state monitoring networks
+255,Moradabad,Uttar Pradesh,18-Nov-2026,73,Moderate,-27,Good Air daily report; CPCB/state monitoring networks
+258,Bhilai,Chhattisgarh,18-Nov-2026,72,Moderate,+8,Good Air daily report; CPCB/state monitoring networks
+259,Kishanganj,Maharashtra,18-Nov-2026,71,Moderate,-21,Good Air daily report; CPCB/state monitoring networks
+260,Brajrajnagar,Maharashtra,18-Nov-2026,70,Moderate,-12,Good Air daily report; CPCB/state monitoring networks
+261,Karauli,Maharashtra,18-Nov-2026,69,Moderate,-13,Good Air daily report; CPCB/state monitoring networks
+261,Sri Ganganagar,Maharashtra,18-Nov-2026,69,Moderate,+12,Good Air daily report; CPCB/state monitoring networks
+263,Bareilly,Uttar Pradesh,18-Nov-2026,68,Moderate,-19,Good Air daily report; CPCB/state monitoring networks
+263,Dehradun,Uttarakhand,18-Nov-2026,68,Moderate,-26,Good Air daily report; CPCB/state monitoring networks
+263,Nalbari,Maharashtra,18-Nov-2026,68,Moderate,-24,Good Air daily report; CPCB/state monitoring networks
+263,Purnia,Bihar,18-Nov-2026,68,Moderate,-76,Good Air daily report; CPCB/state monitoring networks
+263,Sasaram,Maharashtra,18-Nov-2026,68,Moderate,+2,Good Air daily report; CPCB/state monitoring networks
+263,Sirohi,Maharashtra,18-Nov-2026,68,Moderate,-5,Good Air daily report; CPCB/state monitoring networks
+263,Srinagar,Jammu and Kashmir,18-Nov-2026,68,Moderate,+2,Good Air daily report; CPCB/state monitoring networks
+270,Bathinda,Punjab,18-Nov-2026,67,Moderate,+35,Good Air daily report; CPCB/state monitoring networks
+270,Saharsa,Bihar,18-Nov-2026,67,Moderate,-52,Good Air daily report; CPCB/state monitoring networks
+272,Thiruvananthapuram,Kerala,18-Nov-2026,66,Moderate,-9,Good Air daily report; CPCB/state monitoring networks
+273,Barrackpore,Maharashtra,18-Nov-2026,64,Moderate,-110,Good Air daily report; CPCB/state monitoring networks
+273,Samastipur,Maharashtra,18-Nov-2026,64,Moderate,+9,Good Air daily report; CPCB/state monitoring networks
+275,Eloor,Maharashtra,18-Nov-2026,62,Moderate,+1,Good Air daily report; CPCB/state monitoring networks
+276,Kunjemura,Maharashtra,18-Nov-2026,61,Moderate,+23,Good Air daily report; CPCB/state monitoring networks
+277,Hapur,Maharashtra,18-Nov-2026,60,Moderate,-24,Good Air daily report; CPCB/state monitoring networks
+278,Korba,Chhattisgarh,18-Nov-2026,58,Moderate,+2,Good Air daily report; CPCB/state monitoring networks
+279,Rupnagar,Maharashtra,18-Nov-2026,56,Moderate,new,Good Air daily report; CPCB/state monitoring networks
+280,Cuddalore,Maharashtra,18-Nov-2026,55,Moderate,new,Good Air daily report; CPCB/state monitoring networks
+281,Leh,Ladakh,18-Nov-2026,33,Good,new,Good Air daily report; CPCB/state monitoring networks
+281,Satara,Maharashtra,18-Nov-2026,33,Good,+5,Good Air daily report; CPCB/state monitoring networks
+283,Shamli,Maharashtra,18-Nov-2026,23,Good,-34,Good Air daily report; CPCB/state monitoring networks
+284,Bileipada,Maharashtra,18-Nov-2026,20,Good,-205,Good Air daily report; CPCB/state monitoring networks
+285,Panipat,Haryana,18-Nov-2026,18,Good,-39,Good Air daily report; CPCB/state monitoring networks

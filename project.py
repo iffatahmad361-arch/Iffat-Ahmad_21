@@ -199,3 +199,27 @@ plt.savefig('graph4_statewise_aqi.png')
 plt.show()
 print("State-wise analysis completed!")
 print(state_aqi.head(10))
+# GRAPH: LINE GRAPH - TOP 10 MOST POLLUTED CITIES
+
+top_cities = df.nlargest(10, 'US AQI').sort_values('US AQI')
+
+plt.figure(figsize=(12, 6))
+
+plt.plot(
+    top_cities['City'],
+    top_cities['US AQI'],
+    marker='o',
+    linestyle='-',
+    linewidth=2
+)
+
+plt.title('Top 10 Most Polluted Cities in India - AQI')
+plt.xlabel('City')
+plt.ylabel('US AQI')
+
+plt.xticks(rotation=45, ha='right')
+plt.grid(True, linestyle='--', alpha=0.5)
+
+plt.tight_layout()
+plt.savefig('aqi_line_graph.png', dpi=300)
+plt.show()

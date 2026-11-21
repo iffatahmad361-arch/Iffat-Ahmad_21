@@ -1,0 +1,21 @@
+marks=[50,60,70,80,90]
+print(marks[4])
+student=["A","B","C","D"]
+print(student)
+student.append("F")
+print(student)
+student.remove("C")
+print(student)
+print("Total",sum(marks))
+Data=('Iffat',21,'DA',50000)
+print(Data[-1])
+new_list=list(Data)
+print(new_list)
+data2={"Name":"A",
+       "Age":25,
+       "Marks":"Noida"
+        }
+
+print(data2)
+student.index(1,"I")
+print(student)
